@@ -3631,7 +3631,6 @@ canvas{
     max-width: 350px;
 */
 }
-
 .form-control{
   background-color: rgb(233, 233, 233,0);
     border-radius: 0;
@@ -3640,7 +3639,6 @@ canvas{
     padding-left: 0;
     color: #fff !important;
 }
-
 .form-control:focus{
     outline: none;
     box-shadow: none;
@@ -3652,7 +3650,6 @@ canvas{
     font-size: 48px;
     line-height: 60px;
 }
-
 .casedetail h3{
     font-size: 20px;
     text-align: right
@@ -3660,7 +3657,6 @@ canvas{
 .casedetail li{
     font-size: 20px;
 }
-
 .case-banner{
     height: auto;
     width: 100%;
@@ -3671,7 +3667,6 @@ canvas{
     margin-bottom: 100px;
     min-height: 500px;
 }
-
 .case-banner .about-section{
     position: static;
     margin: auto;
@@ -3680,17 +3675,13 @@ canvas{
     left: 0;
     right: 0;
 }
-
 .case-banner .about-section h3{
     font-size: 70px;
 }
-
 .case-banner .about-section p{
     font-size: 30px;
     line-height: 40px;
 }
-
-
 
 
 /*----  [24/08/2022]  wordpress plugins page start ----*/
